@@ -1,5 +1,3 @@
-import java.util.*;
-
 /**
  * Created by hogarth on 2016/5/1.
  * 1.5 Implement a method to perform basic string compression using the counts
@@ -7,6 +5,7 @@ import java.util.*;
  * a2blc5a3. If the "compressed" string would not become smaller than the original
  * string, your method should return the original string.
  */
+import java.util.*;
  
 public class Zipper {
     public String zipString(String iniString) {
